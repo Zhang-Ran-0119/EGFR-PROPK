@@ -1,9 +1,7 @@
 # EGFR-PROPK
 
 ## Data
-**admet_data/admet_group**: Contains ADMET-related datasets from the public database Therapeutics Data Commons.
-
-The remaining data or questions that regarding this study are available from the corresponding author upon request (Fang Bai: baifang@shanghaitech.edu.cn).
+**admet_data**: Contains ADMET-related datasets.
 
 ## Training Models
 Run **submission_gnn mol.ipynb** to train on small molecule data.
